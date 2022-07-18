@@ -1,0 +1,9 @@
+{
+"testDate": [
+  {
+    "testName": "validatePositiveFlowOfLogin",
+    "username": "EnterValidUsername",
+    "password": "EnterValidPassword"
+  }
+]
+}

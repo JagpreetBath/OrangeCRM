@@ -1,0 +1,9 @@
+{
+"testDate": [
+  {
+    "testName": "validatePositiveFlowOfLogin",
+    "username": "hey@abc.com",
+    "password": "Testing@1234"
+  }
+]
+}
